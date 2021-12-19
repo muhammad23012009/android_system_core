@@ -41,6 +41,7 @@ crystal: $(INTERNAL_OTA_PACKAGE_TARGET)
 	echo -e "                   Y8b d88P                                                     "
 	echo -e "                    'Y88P'                                                      "
 	echo -e ""
+	echo -e "Unofficial"
 	echo -e "========================================="
 	echo -e ""
 	@echo "Package Complete: $(CRYSTAL_TARGET_PACKAGE)" >&2
