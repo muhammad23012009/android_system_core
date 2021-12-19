@@ -16,7 +16,7 @@
 # -----------------------------------------------------------------
 # Crystal OTA update package
 
-CRYSTAL_MAINTAINER := UNOFFICIAL
+CRYSTAL_MAINTAINER := NOBODY
 
 CRYSTAL_TARGET_PACKAGE := $(PRODUCT_OUT)/CrystalOS-$(CRYSTAL_VERSION)-$(CRYSTAL_VERSION_NAME)-ARGENT-$(CRYSTAL_PURITY)-$(CRYSTAL_BUILD_DATE).zip
 
